@@ -7,4 +7,4 @@ The goal of my research was to investigate whether different corporate governanc
 
 Copyright © 2019 Nick van Berkel.
 
-Permission is granted, free of charge, to use, alter, modify, merge, copy, publish or distribute the files and content of the files in this repository with no intention to sell, loan or make money of a product that uses, alters, modifies, copies, incorporates or merges the files or content of the files in this repository. When the files or content of the files are used, altered, modified, merged or copied with the intention to publish or distribute, this full copyright notice should be included.
+Permission is granted, free of charge, to use, alter, modify, merge, copy, publish or distribute the files and content of the files in this repository with no intention to make money or gain capital of a product, program or tool that uses, alters, modifies, copies, incorporates or merges the files or content of the files in this repository. When the files or content of the files are used, altered, modified, merged or copied with the intention to publish or distribute, this full copyright notice should be included.
